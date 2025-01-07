@@ -1,6 +1,6 @@
 Oi sou a Taiza Langa! 👋
 
-- 👩‍💻 Tecnica em Desenvolvimento de Sistemas
+- 👩‍💻 Técnica em Desenvolvimento de Sistemas
 - 👩‍🎓 Estou cursando superior em Análise em Desenvolvimento de Sistemas
 - 🚀 Atualmente estou aprendendo Java, Css, Html, Js, Arduino, MySql, GitHub
 - ✨ Sempre em busca de conhecimento
