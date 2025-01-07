@@ -5,3 +5,11 @@ Oi sou a Taiza Langa! 👋
 - 🚀 Atualmente estou aprendendo Java, Css, Html, Js, Arduino, MySql, GitHub
 - ✨ Sempre em busca de conhecimento
 - 📫 Entre em contato: [e-mail](taizalanga123@gmail.com) | [linkedin](www.linkedin.com/in/taiza-langa-976296326)
+
+## Estatísticas do GitHub
+
+![Taiza GitHub stats](https://github-readme-stats.vercel.app/api?username=taiza-langa&show_icons=true&theme=radical)
+
+## Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiza-langa&layout=compact&theme=radical)
